@@ -1,0 +1,34 @@
+reinstall_apps
+start_test_server_in_background
+exit
+start_test_server_in_background
+start_test_server_in_background
+query("*")
+query("*",:id)
+start_test_server_in_background
+start_test_server_in_background
+start_test_server_in_background
+S
+exit
+start_test_server_in_background
+query("*", :id)
+query("*", :id)
+
+
+query("webView class:'searchButtom'")
+start_test_server_in_background
+query("webView class:'searchButtom'")
+query("webView id:'resultSearchTop'")
+exit
+start_test_server_in_background
+exit
+exit
+start_test_server_in_background
+query("*", :text)
+central
+exit
+start_test_server_in_background
+query("*", :text)
+query("*", :id)
+exit
+exit
